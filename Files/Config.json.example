@@ -1,0 +1,20 @@
+{
+    "spredsheet_id": "xxx",
+    "instance_type": [
+        "ec2"
+    ],
+    "profiles": [
+        "voidput"
+    ],
+    "headers": [
+        "id",
+        "Private-ip",
+        "Cloud",
+        "Key",
+        "state",
+        "instance_type",
+        "zone",
+        "=IFERROR(ARRAYFORMULA(VLOOKUP(F:F,Costs!A:D,4,false)))",
+        "Name"
+    ]
+}
