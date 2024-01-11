@@ -7,16 +7,16 @@ https://developers.google.com/sheets/api/quickstart/python
 
 Requiers AWS credential files set up like below
 ```
-[xsell-sandbox]
+[xxx-sandbox]
 aws_access_key_id = xxxxxxxxx
 aws_secret_access_key = xxxxxxxxx
-[xsell-dataengineering]
+[xxx-dataengineering]
 aws_access_key_id = xxxxxxxxx
 aws_secret_access_key = xxxxxxxxx
-[xsell-retail]
+[xxx-retail]
 aws_access_key_id = xxxxxxxxx
 aws_secret_access_key = xxxxxxxxx
-[xsell-health]
+[xxx-health]
 aws_access_key_id = xxxxxxxxx
 aws_secret_access_key = xxxxxxxxx
 ```
